@@ -17,3 +17,6 @@ Em experimentos que necessitam de medidas de parâmetros elétricos, como corren
 Pensando nessas dificuldades deseja-se criar um equipamento: mais robusto, que não exija a mudança de escala, e nem mudança de função por possuir entrada tanto de corrente quanto de tensão; de baixo custo; que mostre as duas medidas ao mesmo tempo e com possibilidade de salvar essas medidas em um cartão de memória ou até mesmo enviá-las para o computador e fazer um gráfico.
 
 Para isso será utilizado um microcontrolador, um sensor de corrente e tensão, um display para mostrar os dados, um módulo de cartão de memória para armazenamento dos dados, um Mosfet com baixo Vgs para garantir leitura de tensão em somente um sentido e em relativamente baixas tensões, 3 botões para selecionar as funções do equipamento, 4 plugs para conectar fios de medida de tensão e corrente, um fusível para evitar correntes acima de determinado valor, uma placa que foi desenvolvida para fazer a conexão entre todos os equipamentos acima e ainda com a possibilidade de adicionar um dispositivo bluetooth.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
