@@ -1,2 +1,2 @@
-# OPEN HARDWARE DEVICE FOR VOLTAGE AND CURRENT MEASUREMENT IN DIDACTIC LABORATORIES
+# Open Hardware Device for Measure Voltage and Current in Didatic Laboratories
 
